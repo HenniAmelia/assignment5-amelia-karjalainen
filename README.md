@@ -5,8 +5,8 @@ Basics of programming assignment 5
 
 Fill here:
 
-- Name
-- Group
+Amelia Karjalainen
+Syntax Errors (Team B)
 
 ## Description of the project
 
